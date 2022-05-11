@@ -1,1 +1,3 @@
-This is a code for a fake news detection using machine learning project, LSTM isused as the base algorithm and an accuracy of 91% is achieved 
+This is a code for a fake news detection using machine learning project, LSTM isused as the base algorithm and an accuracy of 91% is achieved.
+The link for the dataset used can be found here :
+https://drive.google.com/drive/folders/1SqDe1mh8V9jWumMyMTVLsuafM6Mhe_IK?usp=sharing 
